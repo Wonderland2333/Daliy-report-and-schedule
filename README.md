@@ -107,7 +107,7 @@
 
 # DAY6
 
-1.第三章rcore内容和实验kaishi
+1.第三章rcore内容和实验开始
 
 2.rustlings争取完成
 
